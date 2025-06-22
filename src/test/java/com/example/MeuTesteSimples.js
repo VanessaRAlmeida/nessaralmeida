@@ -10,4 +10,5 @@ public class MeuTesteSimples {
         int resultado = 2 + 2;
         assertEquals(4, resultado);
     }
+    
 }
