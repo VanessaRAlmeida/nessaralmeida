@@ -9,4 +9,5 @@ public class ExemploTest {
     public void testSomaSimples() {
         assertEquals(2, 1 + 1);
     }
+    
 }
